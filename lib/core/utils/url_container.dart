@@ -1,6 +1,6 @@
 class UrlContainer {
   static const String domainUrl =
-      'https://ovoride.girdonawah.com'; //YOUR WEBSITE DOMAIN URL HERE
+      'https://olovola.com'; //YOUR WEBSITE DOMAIN URL HERE
 
   static const String baseUrl = '$domainUrl/api/';
 

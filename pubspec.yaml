@@ -1,12 +1,12 @@
 name: ovoride_driver
 description: OvoRide is a complete ride-sharing solution.
 
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
-version: 1.0.0+1
+version: 1.0.0+3
 
 environment:
-  sdk: '>=3.5.0 <4.0.0'
+  sdk: ">=3.5.0 <4.0.0"
 
 dependencies:
   another_flushbar: ^1.12.30
@@ -41,8 +41,8 @@ dependencies:
   intl: ^0.20.2
   just_audio: ^0.9.46
   lottie: ^3.3.1
-  open_file_plus: 
-    git: 
+  open_file_plus:
+    git:
       url: https://github.com/jim-2000/open_file_plus
   path_provider: ^2.1.5
   permission_handler: ^11.4.0
